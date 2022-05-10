@@ -1,0 +1,8 @@
+.DS_Store
+Icon?
+.git/
+.gitignore
+.gitattributes
+*.md
+LICENSE
+build.sh
