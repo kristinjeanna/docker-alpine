@@ -1,6 +1,6 @@
 # kristinjeanna/docker-alpine
 
-[![GitHub license](https://img.shields.io/github/license/kristinjeanna/alpine.svg?style=flat)](https://github.com/kristinjeanna/alpine/blob/main/LICENSE) [![Latest Docker tag](https://img.shields.io/docker/v/kristinjeanna/alpine/latest?style=flat)](https://hub.docker.com/repository/docker/kristinjeanna/alpine) ![Last commit](https://img.shields.io/github/last-commit/kristinjeanna/alpine?style=flat)
+[![GitHub license](https://img.shields.io/github/license/kristinjeanna/docker-alpine.svg?style=flat)](https://github.com/kristinjeanna/docker-alpine/blob/main/LICENSE) [![Latest Docker tag](https://img.shields.io/docker/v/kristinjeanna/alpine/latest?style=flat)](https://hub.docker.com/repository/docker/kristinjeanna/alpine) ![Last commit](https://img.shields.io/github/last-commit/kristinjeanna/docker-alpine?style=flat)
 
 A Docker image based on the `alpine:latest` that serves as the base image for my downstream alpine-based Docker images. Includes `tini` as the PID 0 process and runs as a user named "default".
 
